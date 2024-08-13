@@ -1,4 +1,4 @@
-//Copy đoạn mã SDK được Firebase cung cấp khi khởi tạo, dán vào file JS của dự án của bạn. Và tiếp tục thực hiện theo hướng dẫn trên video.
+//Copy đoạn mã SDK được Firebase cung cấp khi khởi tạo, dán vào file JS của dự án của bạn. Và tiếp tục thực hiện theo hướng dẫn trên video
 
       //tính năng đăng kí
       document.addEventListener('DOMContentLoaded', function() {
